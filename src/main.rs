@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/book/ch03-05-control-flow.html
+
 use std::io::{stdin, stdout, Write};
 use rand::{rng, RngExt};
 use std::cmp::Ordering::{Equal, Greater, Less};
