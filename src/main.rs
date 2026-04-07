@@ -86,6 +86,7 @@ fn calculator() {
             },
             "3" => {
                 println!("Solve:");
+                continue;
             }
             _ => continue
         }
